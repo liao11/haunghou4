@@ -1,0 +1,64 @@
+"CHILoginViewNavTitleText" = "Đăng nhập";
+"CHILoginViewEmailText" = "Email";
+"CHILoginViewPasswordText" = "Mật mã";
+"CHILoginViewAccountServiceText" = "Quên mật mã?";
+"CHILoginViewSignUpText" = "Đăng ký";
+"CHILoginViewFacebookLoginText" = "Facebook";
+"CHILoginViewVisitorLoginText" = "Vào Ngay";
+"CHIAutoLoginViewNavTitleText" = "Đăng nhập...";
+"CHIAutoLoginViewSwitchText" = "công tắc điện";
+"CHISignUpViewNavTitleText" = "Đăng ký";
+"CHISignUpViewRegisterText" = "Đăng ký";
+"CHISignUpViewCheckProtocolText" = "Đồng ý với các điều khoản sử dụng";
+"CHIThirdPlatformLoginProtocolText" = "Chọn 1 trong 3 cách đăng nhập và đồng ý <Điều khoản sử dụng>";
+//"CHIFindAtOrPwViewNavTitleText" = "Quên tài khoản hoặc mật khẩu của bạn";
+"CHIFindAtOrPwViewNavTitleText" = "Quên mật khẩu";
+"CHIFindAtOrPwViewVerificationText" = "Mã xác minh";
+"CHIFindAtOrPwViewInputTitleText" = "Vui lòng nhập địa chỉ email của bạn";
+"CHIFindAtOrPwViewForgotIDText" = "Quên tài khoản";
+"CHIFindAtOrPwViewSubmitText" = "Gửi";
+"CHIForgotAtViewNavTitleText" = "Quên tài khoản";
+"CHIForgotAtViewSelectTitleText" = "Tài khoản lịch sử của bạn";
+"CHIForgotAtViewServiceMailbox" = "Hộp thư dịch vụ";
+"CHIForgotAtViewCellClickText" = "Chọn";
+"CHIForgotAtViewCellEmailText" = "Email";
+"CHIForgotAtViewCellGameNameText" = "Tên vai trò";
+"CHIForgotAtViewCellLastTimeLoggedInText" = "Lần đăng nhập cuối cùng";
+"CHIForgotPwViewNavTitleText" = "Quên mật khẩu của bạn";
+"CHIForgotPwViewInputTitleText" = "Mã xác minh đã được gửi tới";
+"CHIForgotPwViewVerificationText" = "Mã xác minh";
+"CHIForgotPwViewPasswordText" = "Mật khẩu mới";
+"CHIForgotPwViewSubmitText" = "Gửi";
+"CHIBindEmailViewNavTtileText" = "Hộp thư ràng buộc";
+"CHIBindEmailViewEmailText" = "Email";
+"CHIBindEmailViewVerificationCodeText" = "Mã xác minh";
+"CHIBindEmailViewSendText" = "Gửi";
+"CHIBindEmailViewLinkText" = "Trói buộc";
+//"CHIProtocolWebViewNavTitleText" = "Email";
+//"CHILoginViewEmailData" = "Email";
+
+"CHIAlertTitleText" = "CHIAlertTitleText";
+"CHIAlertMissAccountText" = "Vui lòng nhập số tài khoản";
+"CHIAlertMissPasswordText" = "Vui lòng nhập mật khẩu của bạn";
+"CHIAlertPasswordTooShortText" = "CHIAlertPasswordTooShortText";
+
+"CHIAlertPasswordTooLongText" = "CHIAlertPasswordTooLongText";
+
+
+"CHIAlertMissVerifyCodeText" = "Vui lòng nhập mã xác minh";
+"CHIAlertMissVerifyCodeMatchText" = "Vui lòng nhập mã xác minh chính xác";
+"CHIAlertMissConfirmProtocal" = "Xin vui lòng đọc và đồng ý với nội dung thỏa thuận đầu tiên";
+"CHIAlertLoginSuccessText" = "Chào mừng trở lại!";
+"CHIAlertInquriryTitleText" = "Mẹo";
+"CHIAlertInquriryCancelText" = "Hủy bỏ";
+"CHIAlertInquriryConfirmText" = "Xác nhận";
+"CHIAlertAccountDeleteInquriryText" = "Tài khoản có bị xóa hay không?";
+"CHIAlertGuestLoginSuccessText" = "Guest";
+"CHIAlertLogOutNavTitleText" = "Đăng xuất";
+"CHIAlertLogOutMessageText" = "Bạn có muốn đăng xuất không?";
+
+
+
+"CHIAlertPayCancelText" = "Hủy thanh toán";
+
+

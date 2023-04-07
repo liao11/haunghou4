@@ -1,0 +1,34 @@
+
+#ifndef CHPrefixHeader_pch
+#define CHPrefixHeader_pch
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+
+#import "Queen_HServiceCodeDefines.h"
+
+#import "QueenCHIGlobalUser.h"
+#import "QueenCHIGlobalGame.h"
+#import "QueenCHIGlobalInfo.h"
+#import "QueenCHIGameInfo.h"
+#import "QueenCHIUserInfo.h"
+#import "QueenCHIResponseObject.h"
+
+#import "QueenCHConst.h"
+#import "Queen_HMacro.h"
+
+#import "UIView+ViewFrameGeometry.h"
+#import "UIDevice+YJExpand.h"
+#import "QueenCHWeakProxy.h"
+
+#import "QueenCHToast.h"
+#import "QueenProgressHUD.h"
+#import "Masonry.h"
+
+#import "QueenCHHelper.h"
+#import "QueenUtils.h"
+
+#endif
+#endif /* CHPrefixHeader_pch */
