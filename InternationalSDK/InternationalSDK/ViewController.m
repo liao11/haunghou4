@@ -33,6 +33,11 @@
     }
     
     NSLog(@"======%@",response.Queen_result);
+    NSLog(@"======%@",response.Queen_result);
+    NSLog(@"======%@",response.Queen_result);
+    NSLog(@"======%@",response.Queen_result);
+    
+    NSLog(@"======%@",response.Queen_result);
     NSString *str = [NSString stringWithFormat:@"%@%@%@",kMark(@"初始化"),response.JPBaoFu_msg,kMark(@"初始化")];
     [self chVerifyOrder:str];
 }
